@@ -1,5 +1,5 @@
 {
-    "buck2": {
+    "test": {
         "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
         "features": {
             "buck2": {
