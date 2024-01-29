@@ -1,8 +1,8 @@
 {
-    "hello": {
+    "buck2": {
         "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
         "features": {
-            "hello": {
+            "buck2": {
                 "greeting": "hello"
             }
         }

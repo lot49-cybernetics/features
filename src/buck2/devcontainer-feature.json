@@ -1,8 +1,8 @@
 {
-    "name": "Hello, World!",
-    "id": "hello",
-    "version": "1.0.2",
-    "description": "A hello world feature",
+    "name": "Buck2 Build Tools",
+    "id": "buck2",
+    "version": "1.0.0",
+    "description": "A feature to pre-install Meta's Buck2 build tool",
     "options": {
         "greeting": {
             "type": "string",
